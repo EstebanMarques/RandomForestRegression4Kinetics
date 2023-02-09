@@ -8,7 +8,7 @@ We provide 2 separate notebooks “RFR_sklearn.ipynb”  and  “RFR_xgboost.ipy
 respectively. The training data used is contained in a single JSON file “all_data.json”. In this file we contain the total list
 of reactions with an InChI-key of every reagent as well as some information on the reaction under the key “reaction_list”.
 
-A third notebook shows how to generate trainiing sets, whether that means you want to add/remove features on include new reacions
+A third notebook shows how to generate training sets. Meaning you can add/remove features on include new reactions
 to train on.
 
 This requires a python installation with the following packages
